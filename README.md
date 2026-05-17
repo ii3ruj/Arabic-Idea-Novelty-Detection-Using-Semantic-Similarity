@@ -39,13 +39,13 @@ The dataset contains ~3756 Arabic startup ideas from:
 # Project Files
 
 ## 📊 Dataset
-👉 [Download Dataset](data/3750_hackathon_ideas.csv)
+👉 [Download Dataset](3750_hackathon_ideas.csv)
 
-## 📓 Notebook
-👉 [Open Notebook](notebooks/Arabic_Startup_Idea_Novelty_Detection_Using_Semantic_Similarity.ipynb)
+## 📓 Code python 
+👉 [Python](Arabic_Startup_Idea_Novelty_Detection_Using_Semantic_Similarity.ipynb)
 
 ## 📄 ACL Paper
-👉 [View Paper](paper/Arabic_Startup_Idea_Novelty_Detection_Using_Semantic_Similarity_Techniques.pdf)
+👉 [View Paper](Arabic_Startup_Idea_Novelty_Detection_Using_Semantic_Similarity_Techniques.pdf)
 
 ---
 
