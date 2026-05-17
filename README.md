@@ -41,7 +41,7 @@ The dataset contains ~3756 Arabic startup ideas from:
 ## 📊 Dataset
 👉 [Download Dataset](3750_hackathon_ideas.csv)
 
-## 📓 Code python 
+## 📓 python Code 
 👉 [Python](Arabic_Startup_Idea_Novelty_Detection_Using_Semantic_Similarity.ipynb)
 
 ## 📄 ACL Paper
