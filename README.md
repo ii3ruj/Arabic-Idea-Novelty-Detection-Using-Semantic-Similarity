@@ -32,7 +32,7 @@ The dataset contains ~3756 Arabic startup ideas from:
 
 # System Pipeline
 
-![System Pipeline](images/figure1_system_pipeline.png)
+![System Pipeline](figure1_system_pipeline.png)
 
 ---
 
