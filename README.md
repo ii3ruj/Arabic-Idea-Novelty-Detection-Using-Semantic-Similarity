@@ -1,0 +1,1 @@
+# Arabic-Idea-Novelty-Detection-Using-Semantic-Similarity
