@@ -45,7 +45,7 @@ The dataset contains ~3756 Arabic startup ideas from:
 👉 [Python](Arabic_Startup_Idea_Novelty_Detection_Using_Semantic_Similarity.ipynb)
 
 ## 📄 Project Poster Source:
-👉 [View Scientific Poster](assets/project_poster.jpg)
+👉 [View Scientific Poster](poster-nlp.png)
 
 ## 📊 Dataset
 👉 [View Dataset](3750_hackathon_ideas.csv)
@@ -79,7 +79,7 @@ An advanced Arabic Natural Language Processing (NLP) framework designed to autom
 ## 📌 Project Poster
 Below is the official scientific poster summarizing the core pipeline, methodology, and benchmarking experiments conducted for this project:
 
-<img src="assets/project_poster.jpg" width="100%" alt="Arabic Startup Idea Novelty Detection Project Poster">
+<img src="poster-nlp.png" width="100%" alt="Arabic Startup Idea Novelty Detection Project Poster">
 
 ---
 
