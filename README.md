@@ -74,3 +74,5 @@ Transformer models (SBERT + AraBERT) performed better in semantic understanding 
 Email: Ruba35@gmail.com  
 
 GitHub: https://github.com/ii3ruj
+linkedin: https://www.linkedin.com/in/ruba-aljuhani-69052b2a4/
+X: https://x.com/i3ruj
