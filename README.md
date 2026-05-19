@@ -158,5 +158,7 @@ Conversely, **AraBERT and SBERT** bypassed the literal characters, identifying t
 Email: Ruba35@gmail.com  
 
 GitHub: https://github.com/ii3ruj
+
 linkedin: https://www.linkedin.com/in/ruba-aljuhani-69052b2a4/
+
 X: https://x.com/i3ruj
